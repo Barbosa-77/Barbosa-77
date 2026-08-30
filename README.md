@@ -1,6 +1,6 @@
 ## Olá, meu nome é Daniel Dias
 <div>
-🎓Atualmente estou cursando o 3°Ensino médio<br>💼 Estou a procura do meu primeiro trabalho<br>📖No momento estou estudando Java<br>
+🎓2/4 Semestre de Análise e Desenvolvimento de Sistemas<br>💼 Auxiliar Operacional de Check-in no aeroporto<br>📖Estudando Python e SQL<br>
 </div>
 
  ##  
