@@ -28,9 +28,3 @@
 <a href = "mailto:contato@Barbosa-77"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/danieldias31" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Barbosa-77/Barbosa-77/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Barbosa-77/Barbosa-77/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Barbosa-77/Barbosa-77/output/github-snake.svg" />
-</picture>
